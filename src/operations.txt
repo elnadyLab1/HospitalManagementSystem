@@ -1,0 +1,9 @@
+1	Blood
+2	Creatine
+3	MR
+4	Urine
+5	ECG
+6	EMG
+7	Colonoscopy
+8	Endoscopy
+9	Glukoz

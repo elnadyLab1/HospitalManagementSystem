@@ -1,0 +1,3 @@
+1	Caner	kan	532 565 48 11	12345	true	test adress	caner@gmail.com	100	PAID_CASH
+2	Berrin	OK	5329632314	1111	true	Maltepe	berrin@gmail.com	1000	PAID_CASH
+3	Can	Tan	5369631233	12345	true	Bagcilar	can@hotmail.com	500	PAID_CASH
