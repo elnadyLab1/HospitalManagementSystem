@@ -1,4 +1,0 @@
-# HospitalManagementSystem
-# GymManagement
-# GymManagement
-# GymManagement
